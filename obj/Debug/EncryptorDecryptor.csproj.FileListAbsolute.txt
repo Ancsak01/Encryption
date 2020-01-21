@@ -1,0 +1,9 @@
+D:\Programozás\C# munkák\Otthoni\GyakMunka\EncryptorDecryptor\EncryptorDecryptor\bin\Debug\EncryptorDecryptor.exe.config
+D:\Programozás\C# munkák\Otthoni\GyakMunka\EncryptorDecryptor\EncryptorDecryptor\bin\Debug\EncryptorDecryptor.exe
+D:\Programozás\C# munkák\Otthoni\GyakMunka\EncryptorDecryptor\EncryptorDecryptor\bin\Debug\EncryptorDecryptor.pdb
+D:\Programozás\C# munkák\Otthoni\GyakMunka\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\EncryptorDecryptor.csprojResolveAssemblyReference.cache
+D:\Programozás\C# munkák\Otthoni\GyakMunka\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\EncryptorDecryptor.Properties.Resources.resources
+D:\Programozás\C# munkák\Otthoni\GyakMunka\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\EncryptorDecryptor.csproj.GenerateResource.Cache
+D:\Programozás\C# munkák\Otthoni\GyakMunka\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\EncryptorDecryptor.exe
+D:\Programozás\C# munkák\Otthoni\GyakMunka\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\EncryptorDecryptor.pdb
+D:\Programozás\C# munkák\Otthoni\GyakMunka\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\EncryptorDecryptor.Encryptor.resources
